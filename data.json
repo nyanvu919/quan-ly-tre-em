@@ -19,5 +19,12 @@
     "gioi_tinh": "Nam",
     "anh": "",
     "lich": ""
+  },
+  "002": {
+    "ten": "Tên Mới",
+    "tuoi": 0,
+    "gioi_tinh": "Nam",
+    "anh": "",
+    "lich": ""
   }
 }
