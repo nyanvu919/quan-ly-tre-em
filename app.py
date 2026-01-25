@@ -14,7 +14,8 @@ hide_style = """
     
     /* Trang trí khung lịch trình */
     .lich-box {
-        background-color: #f8f9fa;
+        background-color: #f8f9fa; /* Nền trắng xám */
+        color: #000000;             /* QUAN TRỌNG: Ép chữ màu ĐEN */
         padding: 20px;
         border-radius: 12px;
         border-left: 6px solid #2196F3;
@@ -71,11 +72,14 @@ if child_id and child_id in data:
     # 3. LỊCH SINH HOẠT (HIỆN LUÔN Ở DƯỚI)
     st.subheader("📅 Lịch trình & Ghi chú")
     
-    # Xử lý xuống dòng để hiển thị đẹp
-    noi_dung = info['lich'].replace("\n", "<br>")
-    
-    # In ra trong khung đẹp
-    st.markdown(f'<div class="lich-box">{noi_dung}</div>', unsafe_allow_html=True)
+    # Nếu chưa nhập lịch thì hiện thông báo
+    if not info['lich'].strip():
+        st.warning("Chưa có thông tin ghi chú cho hôm nay.")
+    else:
+        # Xử lý xuống dòng để hiển thị đẹp
+        noi_dung = info['lich'].replace("\n", "<br>")
+        # In ra trong khung đẹp (Chữ đen nền trắng)
+        st.markdown(f'<div class="lich-box">{noi_dung}</div>', unsafe_allow_html=True)
 
 # Nếu không có ID hoặc link sai
 else:
