@@ -5,5 +5,12 @@
     "gioi_tinh": "Nam",
     "anh": "https://api.dicebear.com/7.x/avataaars/png?seed=A",
     "lich": "07:00 - Ăn sáng"
+  },
+  "91": {
+    "ten": "Tên mới",
+    "tuoi": 0,
+    "gioi_tinh": "Nam",
+    "anh": "",
+    "lich": ""
   }
 }
