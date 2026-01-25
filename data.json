@@ -1,1 +1,9 @@
-{}
+{
+  "001": {
+    "ten": "Nguyễn Văn An (Mẫu)",
+    "tuoi": 10,
+    "gioi_tinh": "Nam",
+    "anh": "https://api.dicebear.com/7.x/avataaars/png?seed=An",
+    "lich": "7:00 Ăn sáng\n9:00 Tập Vật lý trị liệu\n14:00 Thư giãn"
+  }
+}
