@@ -3,19 +3,59 @@
     "ten": "Nguyễn Văn An",
     "tuoi": 10,
     "gioi_tinh": "Nam",
-    "can_nang": 35,
+    "can_nang": 35.0,
     "anh": "https://api.dicebear.com/7.x/avataaars/png?seed=An",
     "schedule": [
-      { "name": "Ăn sáng", "time": "07:00", "completed": true },
-      { "name": "Vật lý trị liệu", "time": "09:00", "completed": true },
-      { "name": "Tắm rửa", "time": "10:30", "completed": false },
-      { "name": "Ăn trưa", "time": "12:00", "completed": false },
-      { "name": "Ngủ trưa", "time": "13:00", "completed": false },
-      { "name": "Học tập/Vẽ", "time": "15:00", "completed": false },
-      { "name": "Tập đi bộ", "time": "16:30", "completed": false },
-      { "name": "Uống thuốc chiều", "time": "", "completed": false },
-      { "name": "Ăn tối", "time": "", "completed": false },
-      { "name": "Vệ sinh cá nhân", "time": "", "completed": false }
+      {
+        "name": "Ăn sáng",
+        "time": "07:00",
+        "completed": true
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "time": "09:00",
+        "completed": true
+      },
+      {
+        "name": "Tắm rửa",
+        "time": "10:30",
+        "completed": false
+      },
+      {
+        "name": "Ăn trưa",
+        "time": "12:00",
+        "completed": false
+      },
+      {
+        "name": "Ngủ trưa",
+        "time": "13:00",
+        "completed": false
+      },
+      {
+        "name": "Học tập/Vẽ",
+        "time": "15:00",
+        "completed": false
+      },
+      {
+        "name": "Tập đi bộ",
+        "time": "16:30",
+        "completed": false
+      },
+      {
+        "name": "Uống thuốc chiều",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Ăn tối",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Vệ sinh cá nhân",
+        "time": "",
+        "completed": false
+      }
     ],
     "ghi_chu": "Bé ngủ ngon, ăn uống tốt hơn."
   }
