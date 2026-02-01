@@ -60,45 +60,45 @@
     "ghi_chu": "Bé ngủ ngon, ăn uống tốt hơn."
   },
   "002": {
-    "ten": "Tên Mới",
+    "ten": "nguyen4 văn b",
     "tuoi": 1,
     "gioi_tinh": "Nam",
-    "can_nang": 0,
+    "can_nang": 0.0,
     "anh": "",
     "schedule": [
       {
         "name": "Ăn sáng",
-        "time": "",
-        "completed": false
+        "time": "07:00",
+        "completed": true
       },
       {
         "name": "Vật lý trị liệu",
-        "time": "",
-        "completed": false
+        "time": "09:00",
+        "completed": true
       },
       {
         "name": "Tắm rửa",
-        "time": "",
+        "time": "10:30",
         "completed": false
       },
       {
         "name": "Ăn trưa",
-        "time": "",
+        "time": "12:00",
         "completed": false
       },
       {
         "name": "Ngủ trưa",
-        "time": "",
+        "time": "13:00",
         "completed": false
       },
       {
         "name": "Học tập/Vẽ",
-        "time": "",
+        "time": "15:00",
         "completed": false
       },
       {
         "name": "Tập đi bộ",
-        "time": "",
+        "time": "16:30",
         "completed": false
       },
       {
