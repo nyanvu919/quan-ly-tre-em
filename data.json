@@ -58,5 +58,65 @@
       }
     ],
     "ghi_chu": "Bé ngủ ngon, ăn uống tốt hơn."
+  },
+  "002": {
+    "ten": "Tên Mới",
+    "tuoi": 1,
+    "gioi_tinh": "Nam",
+    "can_nang": 0,
+    "anh": "",
+    "schedule": [
+      {
+        "name": "Ăn sáng",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Tắm rửa",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Ăn trưa",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Ngủ trưa",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Học tập/Vẽ",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Tập đi bộ",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Uống thuốc chiều",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Ăn tối",
+        "time": "",
+        "completed": false
+      },
+      {
+        "name": "Vệ sinh cá nhân",
+        "time": "",
+        "completed": false
+      }
+    ],
+    "ghi_chu": ""
   }
 }
